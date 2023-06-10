@@ -192,14 +192,9 @@ This is only in case sleep worked in the past. If you have sleep issues from the
 Sometimes (especially on a dual boot environment after booting in the other OS) a normal sleep results in a full (and dirty) reboot. For me the old behavior can be obtained by issuing this command: `sudo pmset -a hibernatemode 0 && sudo reboot`, albeit already being in hibernate mode 0. The reboot is mandatory, otherwise it doesn't work. Some people reported this fixes their problems, while other still had sleep issues. Just give it a shot.
 
 ## Additional Resources / Request help
-It's much to read, but this thread include many solutions to the less common problems. Please read every post before asking a question:  
+This thread include many solutions to the less common problems.
 http://www.insanelymac.com/forum/topic/319764-guide-dell-xps-15-9550-sierra-10122-quick-installation/  
 also please check if your question is already answered here: https://github.com/dodsont/EFI-OPENCORE-Dell-XPS-9550/issues?q=is%3Aissue+is%3Aclosed
-
-## Afterword
-
-- Warning: Some people have reported multiple data losses on this machine. I suggest using Time Machine whenever possible!
-- Not a bug: if you REALLY want to use the 4K Display natively and disable the Retina Mode (max 1920x1080), google it or see [this tutorial](http://www.everymac.com/systems/apple/macbook_pro/macbook-pro-retina-display-faq/macbook-pro-retina-display-hack-to-run-native-resolution.html)
 
 ## Appendix 1: Accessories
 
