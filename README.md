@@ -1,4 +1,4 @@
-![Computer Logo](Additional/icon.png "Dell XPS 15")
+![Computer Logo](Additional/xps.webp "Dell XPS 15")
 
 If you have questions please read the whole document before reporting an issue to prevent duplicates.
 
