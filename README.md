@@ -2,9 +2,6 @@
 
 ## Current System:
 
-**macOS version**: 12.6.1 (Monterey)\
-**OpenCore version**: 0.8.8
-
 | **Component**    | **Model**                                  |
 | ---------------- | ------------------------------------------ |
 | CPU              | Intel Core i7 Quad-Core 2.6 GHz            |
