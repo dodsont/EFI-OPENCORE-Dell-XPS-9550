@@ -1,9 +1,5 @@
 ![Computer Logo](Additional/xps.webp "Dell XPS 15")
 
-If you have questions please read the whole document before reporting an issue to prevent duplicates.
-
-As always, bugs may occur and your Dell will most likely be not amused. You have been warned!
-
 ## Current System:
 
 **macOS version**: 12.6.1 (Monterey)\
