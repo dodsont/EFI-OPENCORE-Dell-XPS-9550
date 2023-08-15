@@ -8,7 +8,7 @@
 | RAM              | 32GB (2 x 16GB) 240 0MHz DDR4              |
 | GPU              | Intel HD Graphics 530 2GB                  |
 | System           | MacBookPro13,3 (15-inch, 2016)             |
-| OpenCore         | 0.9.3                                      |
+| OpenCore         | 0.9.4                                      |
 | macOS            | 12.6.6                                     |
 
 
